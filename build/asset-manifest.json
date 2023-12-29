@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3c3a73c7.css",
+    "main.js": "/static/js/main.78b571f0.js",
+    "static/media/IMG_14052.JPG": "/static/media/IMG_14052.1ba10efd0c96c7eaaa84.JPG",
+    "static/media/Screenshot (36).png": "/static/media/Screenshot (36).fa464fa8ce2ed6d86f7c.png",
+    "static/media/man-dancing-smoke-with-illuminating-light.jpg": "/static/media/man-dancing-smoke-with-illuminating-light.d6cd36b3807aacb38cf4.jpg",
+    "static/media/Screenshot (30).png": "/static/media/Screenshot (30).afab66c78df02821b245.png",
+    "static/media/Screenshot (22).png": "/static/media/Screenshot (22).28db13439918d06c3995.png",
+    "static/media/stage-show.jpg": "/static/media/stage-show.8b9139ec464b889609b1.jpg",
+    "static/media/Screenshot (19).png": "/static/media/Screenshot (19).b02c19bd05f740b872c3.png",
+    "static/media/Screenshot (23).png": "/static/media/Screenshot (23).3ab8a47c238b185a5b13.png",
+    "static/media/Screenshot (10).png": "/static/media/Screenshot (10).43cf3045ac14e2e38ffe.png",
+    "static/media/kaybryn.png": "/static/media/kaybryn.0afe58ad7863155114a4.png",
+    "static/media/logo 1.png": "/static/media/logo 1.7f5092f6d782389da362.png",
+    "index.html": "/index.html",
+    "main.3c3a73c7.css.map": "/static/css/main.3c3a73c7.css.map",
+    "main.78b571f0.js.map": "/static/js/main.78b571f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c3a73c7.css",
+    "static/js/main.78b571f0.js"
+  ]
+}
