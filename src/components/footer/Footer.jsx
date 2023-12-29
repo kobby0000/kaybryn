@@ -13,7 +13,7 @@ function Footer() {
         <div className="footer_wrapper container">
           <div className="top">
             <Link to="/">
-            <img src={footerLogo} alt="" className="footer_logo" />
+            <img src={footerLogo} alt="kay bryn music" className="footer_logo" />
             </Link>
           <ul>
             <li><span>ADDRESS:</span> 58 LONG ROAD, UK</li>
